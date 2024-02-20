@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCRabbitMQ.Client", "RPCRabbitMQ.Client\RPCRabbitMQ.Client.csproj", "{00C7DFE4-3AC8-4932-A174-4553E6532189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCRabbitMQ.DataContracts", "RPCRabbitMQ.DataContracts\RPCRabbitMQ.DataContracts.csproj", "{59EFE1D0-CB0E-41E6-B2A2-9E7C5967D64C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPCRabbitMQ.Server", "RPCRabbitMQ.Server\RPCRabbitMQ.Server.csproj", "{6F280DAE-3968-4045-8999-9CE0CF9813FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C7DFE4-3AC8-4932-A174-4553E6532189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C7DFE4-3AC8-4932-A174-4553E6532189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C7DFE4-3AC8-4932-A174-4553E6532189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C7DFE4-3AC8-4932-A174-4553E6532189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EFE1D0-CB0E-41E6-B2A2-9E7C5967D64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EFE1D0-CB0E-41E6-B2A2-9E7C5967D64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EFE1D0-CB0E-41E6-B2A2-9E7C5967D64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EFE1D0-CB0E-41E6-B2A2-9E7C5967D64C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F280DAE-3968-4045-8999-9CE0CF9813FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F280DAE-3968-4045-8999-9CE0CF9813FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F280DAE-3968-4045-8999-9CE0CF9813FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F280DAE-3968-4045-8999-9CE0CF9813FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
